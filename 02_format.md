@@ -5,5 +5,5 @@ Masalah format paling diperdebatkan tetapi paling konsekuensial. Orang bisa bera
 Dengan Go kita mengambil pendekatan yang tidak biasa dan membiarkan mesin mengurus sebagian besar masalah format. Program `gofmt` (juga tersedia dalam `go fmt` yang beroperasi pada tingkat paket daripada tingkat sumber file) membaca program Go dan mengeluarkan sumber dalam gaya standar indentasi dan rataaan vertikal, mempertahankan dan jika ada komentar diperlukan perubahan format. Jika anda ingin mengetahui bagaimana menangani beberapa situasi layout baru, jalankan `gofmt`; jika hasilnya tidak kelihatan benar, atur ulang program anda (catat bug tentang `gofmt`), tidak bekerja di sekitar itu.  
 
 
-Sebelumnya [Perkenalan](01_perkenalan.md)
-Berikutnya [Komentar](03_komentar)
+- Sebelumnya [Perkenalan](01_perkenalan.md)
+- Berikutnya [Komentar](03_komentar)

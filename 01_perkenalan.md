@@ -9,5 +9,8 @@ Dokumen ini memberikan tips menulis dengan jelas, idiomatik kode Go. Menambah [ 
 [Go package sources](http://golang.org/src/pkg/) dimaksud untuk melayani tidak hanya sebagai pustaka inti tetapi juga sebagai contoh bagaimana menggunakan bahasa Go. Selain itu berisi banyak paket kerja, program yang bisa dijalankan langsung dari situs [play.golang.org](http://play.golang.org), seperti [contoh](http://golang.org/pkg/strings/#example_Map) berikut (jika diperlukan, klik pada kata "contoh"" untuk membukanya). Jika anda memiliki pertanyaan tentang cara mendekati masalah atau bagaimana sesuatu mungkin dilaksanakan, dokumentasi, dan contoh kode di perpustakaan dapat memberi jawaban, ide dan latar belakang.  
 
 
-Sebelumnya [Index](README.md) 
-Berikutnya [format](02_format.md)
+
+### Tautan
+
+- Sebelumnya [Index](README.md) 
+- Berikutnya [format](02_format.md)

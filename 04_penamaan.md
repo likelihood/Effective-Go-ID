@@ -1,4 +1,4 @@
-#Penamaan revisi 1
+#Penamaan 
 
 Nama sebagai hal penting pada Go seperti dalam bahasa pemrograman lain. Bahkan memiliki dampak semantik: visibilitas nama diluar paket ditentukan oleh apakah karakter pertama adalah huruf besar. Karena itu layak untuk menghabiskan sedikit waktu untuk berbicara tentang aturan penamaan dalam Go.
 

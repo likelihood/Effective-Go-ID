@@ -7,5 +7,5 @@ Dengan Go kita mengambil pendekatan yang tidak biasa dan membiarkan mesin mengur
 
 ### Tatutan
 
-- Sebelumnya: [Perkenalan](01_perkenalan.md)
-- Berikutnya: [Komentar](03_komentar)
+- Sebelumnya: [Perkenalan](02_format.md)
+- Berikutnya: [Komentar](03_komentar.md)
